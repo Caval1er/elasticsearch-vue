@@ -1,0 +1,115 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?q3toa3');
+  src:  url('fonts/icomoon.eot?q3toa3#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?q3toa3') format('truetype'),
+    url('fonts/icomoon.woff?q3toa3') format('woff'),
+    url('fonts/icomoon.svg?q3toa3#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-santa .path1:before {
+  content: "\e900";
+  color: rgb(218, 226, 229);
+}
+.icon-santa .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(237, 216, 126);
+}
+.icon-santa .path3:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.1;
+}
+.icon-santa .path4:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.1;
+}
+.icon-santa .path5:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(239, 77, 77);
+}
+.icon-santa .path6:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(218, 226, 229);
+}
+.icon-santa .path7:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.1;
+}
+.icon-santa .path8:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(67, 72, 84);
+}
+.icon-santa .path9:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(67, 72, 84);
+}
+.icon-santa .path10:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.1;
+}
+.icon-santa .path11:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.1;
+}
+.icon-santa .path12:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.1;
+}
+.icon-santa .path13:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.1;
+}
+.icon-santa .path14:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(239, 77, 77);
+}
+.icon-santa .path15:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+  opacity: 0.1;
+}
+.icon-santa .path16:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+  opacity: 0.15;
+}

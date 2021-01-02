@@ -1,0 +1,18 @@
+{
+  "data":[{"url":"https://global.jd.com/",
+    "imgSrc":"https://infinityicon.infinitynewtab.com/user-share-icon/cee009549b352def723ba09d6da4b742.png?imageMogr2/thumbnail/260x/format/webp/blur/1x0/quality/100|imageslim",
+    "text":"京东商城"},
+    {"url":"https://www.zhihu.com/",
+      "imgSrc":"https://infinityicon.infinitynewtab.com/user-share-icon/2b89ebe968d8cafe77a5c587daa79c7f.png?imageMogr2/thumbnail/260x/format/webp/blur/1x0/quality/100|imageslim",
+      "text":"知乎"},
+      {"url":"https://weibo.com/",
+        "imgSrc":"https://infinityicon.infinitynewtab.com/user-share-icon/0f2ab700f8fff5b6e9ebc7d6a976981f.png?imageMogr2/thumbnail/260x/format/webp/blur/1x0/quality/100|imageslim",
+        "text":"新浪微博"},
+        {"url":"https://www.bilibili.com/",
+          "imgSrc":"https://infinityicon.infinitynewtab.com/user-share-icon/d8b62f4d64bda8800b1c788cd5ba3c68.png?imageMogr2/thumbnail/260x/format/webp/blur/1x0/quality/100|imageslim",
+          "text":"bilibili"},
+          {"url":"https://cn.vuejs.org/",
+            "imgSrc":"https://infinityicon.infinitynewtab.com/user-share-icon/0c2dcbe59da505451ebcddb262a9a041.png?imageMogr2/thumbnail/260x/format/webp/blur/1x0/quality/100|imageslim",
+            "text":"Vue.js"}
+  ]
+}

@@ -1,17 +1,22 @@
 <template>
   <div id="app">
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-
-export default {
+  // import axios from 'axios'
+  export default {
   name: 'App',
-  components: {
-  }
+  data(){
+    return{
+    }
+  },
+  methods: {
+  },
 }
 </script>
 
 <style>
-
+@import '~assets/css/base.css';
 </style>
